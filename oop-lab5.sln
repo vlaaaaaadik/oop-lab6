@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29503.13
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "oop-lab5", "oop-lab5\oop-lab5.csproj", "{17B52ACE-B8A8-41E9-B6B2-B819AC86C943}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GlazedForms", "GlazedForms\GlazedForms.csproj", "{2BA19E23-52FC-4F20-9672-E12974A18D13}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TravelForm", "TravelForm\TravelForm.csproj", "{1D37662D-27BB-4381-B667-6D6592C3E4F0}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{17B52ACE-B8A8-41E9-B6B2-B819AC86C943}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{17B52ACE-B8A8-41E9-B6B2-B819AC86C943}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{17B52ACE-B8A8-41E9-B6B2-B819AC86C943}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{17B52ACE-B8A8-41E9-B6B2-B819AC86C943}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2BA19E23-52FC-4F20-9672-E12974A18D13}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2BA19E23-52FC-4F20-9672-E12974A18D13}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2BA19E23-52FC-4F20-9672-E12974A18D13}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2BA19E23-52FC-4F20-9672-E12974A18D13}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1D37662D-27BB-4381-B667-6D6592C3E4F0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1D37662D-27BB-4381-B667-6D6592C3E4F0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1D37662D-27BB-4381-B667-6D6592C3E4F0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1D37662D-27BB-4381-B667-6D6592C3E4F0}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {2E4F6BEA-D08F-4062-8A7C-5C3410EC7F91}
+	EndGlobalSection
+EndGlobal

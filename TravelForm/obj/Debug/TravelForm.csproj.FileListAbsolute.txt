@@ -1,0 +1,13 @@
+D:\study\parasha\oop-lab5\TravelForm\obj\Debug\MainWindow.g.cs
+D:\study\parasha\oop-lab5\TravelForm\obj\Debug\App.g.cs
+D:\study\parasha\oop-lab5\TravelForm\obj\Debug\TravelForm_MarkupCompile.cache
+D:\study\parasha\oop-lab5\TravelForm\obj\Debug\TravelForm_MarkupCompile.lref
+D:\study\parasha\oop-lab5\TravelForm\bin\Debug\TravelForm.exe.config
+D:\study\parasha\oop-lab5\TravelForm\bin\Debug\TravelForm.exe
+D:\study\parasha\oop-lab5\TravelForm\bin\Debug\TravelForm.pdb
+D:\study\parasha\oop-lab5\TravelForm\obj\Debug\MainWindow.baml
+D:\study\parasha\oop-lab5\TravelForm\obj\Debug\TravelForm.g.resources
+D:\study\parasha\oop-lab5\TravelForm\obj\Debug\TravelForm.Properties.Resources.resources
+D:\study\parasha\oop-lab5\TravelForm\obj\Debug\TravelForm.csproj.GenerateResource.cache
+D:\study\parasha\oop-lab5\TravelForm\obj\Debug\TravelForm.exe
+D:\study\parasha\oop-lab5\TravelForm\obj\Debug\TravelForm.pdb

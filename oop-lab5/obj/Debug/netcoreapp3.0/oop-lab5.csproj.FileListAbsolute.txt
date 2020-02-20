@@ -1,0 +1,11 @@
+D:\study\parasha\oop-lab5\oop-lab5\bin\Debug\netcoreapp3.0\oop-lab5.exe
+D:\study\parasha\oop-lab5\oop-lab5\bin\Debug\netcoreapp3.0\oop-lab5.deps.json
+D:\study\parasha\oop-lab5\oop-lab5\bin\Debug\netcoreapp3.0\oop-lab5.runtimeconfig.json
+D:\study\parasha\oop-lab5\oop-lab5\bin\Debug\netcoreapp3.0\oop-lab5.runtimeconfig.dev.json
+D:\study\parasha\oop-lab5\oop-lab5\bin\Debug\netcoreapp3.0\oop-lab5.dll
+D:\study\parasha\oop-lab5\oop-lab5\bin\Debug\netcoreapp3.0\oop-lab5.pdb
+D:\study\parasha\oop-lab5\oop-lab5\obj\Debug\netcoreapp3.0\oop-lab5.csprojAssemblyReference.cache
+D:\study\parasha\oop-lab5\oop-lab5\obj\Debug\netcoreapp3.0\oop-lab5.AssemblyInfoInputs.cache
+D:\study\parasha\oop-lab5\oop-lab5\obj\Debug\netcoreapp3.0\oop-lab5.AssemblyInfo.cs
+D:\study\parasha\oop-lab5\oop-lab5\obj\Debug\netcoreapp3.0\oop-lab5.dll
+D:\study\parasha\oop-lab5\oop-lab5\obj\Debug\netcoreapp3.0\oop-lab5.pdb

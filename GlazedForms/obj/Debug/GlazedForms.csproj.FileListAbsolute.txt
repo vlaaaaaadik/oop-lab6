@@ -1,0 +1,14 @@
+D:\study\parasha\oop-lab5\GlazedForms\bin\Debug\GlazedForms.exe.config
+D:\study\parasha\oop-lab5\GlazedForms\bin\Debug\GlazedForms.exe
+D:\study\parasha\oop-lab5\GlazedForms\bin\Debug\GlazedForms.pdb
+D:\study\parasha\oop-lab5\GlazedForms\obj\Debug\GlazedForms.csprojAssemblyReference.cache
+D:\study\parasha\oop-lab5\GlazedForms\obj\Debug\MainWindow.g.cs
+D:\study\parasha\oop-lab5\GlazedForms\obj\Debug\App.g.cs
+D:\study\parasha\oop-lab5\GlazedForms\obj\Debug\GlazedForms_MarkupCompile.cache
+D:\study\parasha\oop-lab5\GlazedForms\obj\Debug\GlazedForms_MarkupCompile.lref
+D:\study\parasha\oop-lab5\GlazedForms\obj\Debug\MainWindow.baml
+D:\study\parasha\oop-lab5\GlazedForms\obj\Debug\GlazedForms.g.resources
+D:\study\parasha\oop-lab5\GlazedForms\obj\Debug\GlazedForms.Properties.Resources.resources
+D:\study\parasha\oop-lab5\GlazedForms\obj\Debug\GlazedForms.csproj.GenerateResource.cache
+D:\study\parasha\oop-lab5\GlazedForms\obj\Debug\GlazedForms.exe
+D:\study\parasha\oop-lab5\GlazedForms\obj\Debug\GlazedForms.pdb
